@@ -3,9 +3,9 @@ Java related tech concepts
 
 # Java Collections API - 
 1) HashMap internals
-  -> http://javarevisited.blogspot.in/2011/02/how-hashmap-works-in-java.html
-  -> https://dzone.com/articles/hashmap-internal
-  -> http://mailinator.blogspot.in/2009/06/beautiful-race-condition.html
+  a) http://javarevisited.blogspot.in/2011/02/how-hashmap-works-in-java.html
+  b) https://dzone.com/articles/hashmap-internal
+  c) http://mailinator.blogspot.in/2009/06/beautiful-race-condition.html
 
 
 
