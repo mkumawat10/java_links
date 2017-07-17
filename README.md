@@ -15,6 +15,6 @@ Java related tech concepts
 # Rest API links - 
 http://restfulapi.net/    
 
-# Scalabilty Links
+# Scalability Links
 http://highscalability.com/    
 
